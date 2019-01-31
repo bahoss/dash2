@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/dash2/static/js/runtime~main.64acaede.js"
   },
   {
-    "revision": "60bd406af049ebf084b9762e46f7ac56",
+    "revision": "be819e25b7cd7725c741a6c8eb690ac1",
     "url": "/dash2/index.html"
   }
 ];
