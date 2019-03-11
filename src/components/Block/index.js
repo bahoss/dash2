@@ -6,7 +6,6 @@ import styled from "styled-components";
 
 const Wrapper = styled.div`
   display: flex;
-  padding-right: 10px;
   box-shadow: 4px 6px 12px 0px rgba(131, 230, 151, 0.75);
   align-items: center;
 `;
