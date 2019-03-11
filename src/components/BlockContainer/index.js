@@ -122,7 +122,6 @@ class BlockList extends Component {
                 </div>
               )}
             </Droppable>
-            ;
           </DragDropContext>
         )}
       </Wrapper>
